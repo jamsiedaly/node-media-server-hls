@@ -1,4 +1,4 @@
-# Node Media Server Hls
+# Node Media Server HLS
 
 A node media service docker image configured to produce an HLS output
 
